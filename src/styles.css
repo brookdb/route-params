@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.contact-list-item {
+  border: solid 0.5px orange;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+}
+.contact-list-item img {
+  width: 10vw;
+  margin-right: 20px;
+}
